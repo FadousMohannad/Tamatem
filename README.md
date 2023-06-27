@@ -3,7 +3,8 @@ download the php file and in your localhost please add the files folder in the s
 where php file is located
 
 you can run this on cli using this command 
-# php index.php
+# Run Code
+1: php index.php
 
-or from the browser
+2: from the browser
 
